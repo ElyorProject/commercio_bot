@@ -1,0 +1,2 @@
+[project.scripts]
+app = "your_module_name:your_function_name"
